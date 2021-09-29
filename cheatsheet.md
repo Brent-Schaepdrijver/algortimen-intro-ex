@@ -1,4 +1,4 @@
-###cheatsheet
+### Cheatsheet
 
 ### Variabelen
 
