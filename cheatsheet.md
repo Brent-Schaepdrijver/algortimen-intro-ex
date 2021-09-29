@@ -3,7 +3,8 @@
 ### Variabelen
 
 Csharp => python:
-```int a = 0;  => a = 0
+```
+int a = 0;  => a = 0
 string b = "Brent"; => b = 'Brent'
 char c = "c"; => c = 'c'
 float d = 1.01; => d = 1.01
