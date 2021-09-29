@@ -5,7 +5,6 @@
 
 Number1 = 2
 Number2 = 1
-Number3 = 30
 list = []
 totalnumber = 0
 
